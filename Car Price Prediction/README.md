@@ -126,5 +126,4 @@ A Jupyter-based analysis comparing multiple regression models to predict car pri
 ```bash
 git clone https://github.com/1Omarelalfy1122/Regression.git
 cd Regression/"Car Price Prediction"
-pip install -r requirements.txt
 jupyter notebook
